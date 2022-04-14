@@ -1,7 +1,7 @@
-baseURL: https://example.com
+baseURL: https://alexsiufungkwong.netlify.app
 languageCode: en
 DefaultContentLanguage: en
-title: Website of Jane Doe
+title: Website of Alex Kwong
 theme: anatole
 summarylength: 10
 enableEmoji: yes
