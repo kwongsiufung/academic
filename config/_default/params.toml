@@ -1,4 +1,3 @@
-
 title = "Hi I'm Alex"
 author = "Alex Kwong"
 #copyright = "2020-2021"
@@ -54,9 +53,10 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
+
 [[socialIcons]]
 icon = "fab fa-twitter"
-title = "Linkedin"
+title = "Twitter"
 url = "https://twitter.com/asfkwong"
 
 [[socialIcons]]
@@ -72,4 +72,4 @@ url = "https://scholar.google.com/citations?user=F-sGJEIAAAAJ&hl=en"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail me"
-url = "mailto:akwong@ed.ac.uk
+url = "mailto:akwong@ed.ac.uk"
