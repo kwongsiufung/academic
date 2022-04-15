@@ -2,13 +2,13 @@
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/welcome/"
 
   [[main]]
-  name = "Posts"
+  name = "About"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "about"
+  url = "/about/"
 
   [[main]]
   name = "Portfolio"
@@ -17,16 +17,22 @@
   url = "/portfolio/"
 
   [[main]]
-  name = "About"
+  name = "CV"
   weight = 400
-  identifier = "about"
-  url = "/about/"
+  identifier = "CV"
+  url = "AlexKwongCV_April22.pdf"
 
   [[main]]
-  name = "Contact"
+  name = "Posts"
   weight = 500
-  identifier = "contact"
-  url = "/contact/"
+  identifier = "posts"
+  url = "/post/"
+  
+  [[main]]
+  name = "Google Scholar"
+  weight = 500
+  identifier = "google scholar"
+  url = "https://scholar.google.com/citations?user=F-sGJEIAAAAJ&hl=en"
 
   [[footer]]
   name = "imprint"

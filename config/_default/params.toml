@@ -1,7 +1,7 @@
-title = "Hi I'm Alex"
+title = "Alex Kwong Website"
 author = "Alex Kwong"
 #copyright = "2020-2021"
-description = "Hi I'm Alex"
+description = "Research Fellow - University of Edinburgh"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -55,9 +55,9 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 
 [[socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/asfkwong"
+icon = "fab fa-google"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=F-sGJEIAAAAJ&hl=en"
 
 [[socialIcons]]
 icon = "fab fa-github"
@@ -65,11 +65,11 @@ title = "GitHub"
 url = "https://github.com/kwongsiufung"
 
 [[socialIcons]]
-icon = "fab fa-google"
-title = "google scholar"
-url = "https://scholar.google.com/citations?user=F-sGJEIAAAAJ&hl=en"
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/asfkwong"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
-title = "e-mail me"
+title = "E-mail me"
 url = "mailto:akwong@ed.ac.uk"
